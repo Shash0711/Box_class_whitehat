@@ -1,1 +1,1 @@
-# Box_class_whitehat
+# Box Class
